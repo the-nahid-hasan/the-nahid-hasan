@@ -49,46 +49,6 @@ I'm driven by the art of **clean code**, **scalable architecture**, and **user-c
 
 </div>
 
-<br clear="both" />
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-### 🌟 PosterBD
-> A comprehensive web platform built with modern technologies
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Site-brightgreen?style=for-the-badge)](# "Add your project link")
-[![Source Code](https://img.shields.io/badge/Source%20Code-GitHub-black?style=for-the-badge&logo=github)](# "Add your GitHub repo link")
-
-**Tech Stack:** `React` `Node.js` `MongoDB` `Express`
-
----
-
-### 🔥 [Project Name 2]
-> [Add description from your portfolio]
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Site-brightgreen?style=for-the-badge)](# "Add your project link")
-[![Source Code](https://img.shields.io/badge/Source%20Code-GitHub-black?style=for-the-badge&logo=github)](# "Add your GitHub repo link")
-
-**Tech Stack:** `[Add technologies used]`
-
----
-
-### ⭐ [Project Name 3]
-> [Add description from your portfolio]
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Site-brightgreen?style=for-the-badge)](# "Add your project link")
-[![Source Code](https://img.shields.io/badge/Source%20Code-GitHub-black?style=for-the-badge&logo=github)](# "Add your GitHub repo link")
-
-**Tech Stack:** `[Add technologies used]`
-
-</div>
-
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
