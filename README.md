@@ -4,7 +4,7 @@
 </div>
 
 <p align="center">
-  <b>🚀 Full Stack Software Engineer | Problem Solver | Tech Enthusiast</b><br>
+  <b>Full Stack Software Engineer | Problem Solver | Tech Enthusiast</b><br>
   <i>Transforming complex challenges into elegant, scalable solutions</i>
 </p>
 
