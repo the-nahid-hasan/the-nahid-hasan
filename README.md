@@ -27,9 +27,9 @@
 
 <img align="right" width="350px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nahid515023&layout=compact&langs_count=6&theme=react&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 
-Software Engineer with strong expertise in full stack development and algorithmic problem-solving. Specializing in JavaScript ecosystems with React, Node.js, and modern frameworks. Passionate about building scalable applications with clean architecture and intuitive user experiences.
+Software Engineer with strong expertise in full-stack development and algorithmic problem-solving. Specializing in JavaScript ecosystems with React, Node.js, and modern frameworks. Passionate about building scalable applications with clean architecture and intuitive user experiences.
 
-- 🔭 Currently working on **PosterBD Platform Development**
+- 🔭 Currently working on **MyTutors Platform Development**
 - 🌱 Deepening expertise in **Next.js**, **TypeScript**, and **System Design**
 - 👯 Open to collaborate on **Open Source Projects** and **Web Applications**
 - 💬 Ask me about **MERN Stack**, **Competitive Programming**, and **Software Architecture**
