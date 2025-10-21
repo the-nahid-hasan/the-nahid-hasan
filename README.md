@@ -18,14 +18,14 @@
   <a href="mailto:nahid515023@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=nahid515023&style=for-the-badge&color=0e75b6&label=Profile+Views" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=the-nahid-hasan&style=for-the-badge&color=0e75b6&label=Profile+Views" alt="Profile views" />
 </div>
 
 <br/>
 
 ## 📋 Professional Summary
 
-<img align="right" width="350px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nahid515023&layout=compact&langs_count=6&theme=react&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+<img align="right" width="350px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=the-nahid-hasan&layout=compact&langs_count=6&theme=react&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 
 Software Engineer with strong expertise in full-stack development and algorithmic problem-solving. Specializing in JavaScript ecosystems with React, Node.js, and modern frameworks. Passionate about building scalable applications with clean architecture and intuitive user experiences.
 
@@ -137,7 +137,7 @@ Software Engineer with strong expertise in full-stack development and algorithmi
 
 ## 🎓 Education & Professional Development
 
-<img align="right" width="350px" src="https://github-readme-streak-stats.herokuapp.com/?user=nahid515023&theme=react&hide_border=true&background=0D1117&ring=61DAFB&fire=61DAFB&currStreakLabel=61DAFB" alt="GitHub Streak" />
+<img align="right" width="350px" src="https://github-readme-streak-stats.herokuapp.com/?user=the-nahid-hasan&theme=react&hide_border=true&background=0D1117&ring=61DAFB&fire=61DAFB&currStreakLabel=61DAFB" alt="GitHub Streak" />
 
 ### 🏫 Academic Background
 - **B.Sc. in Computer Science and Engineering**  
@@ -159,16 +159,16 @@ Software Engineer with strong expertise in full-stack development and algorithmi
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nahid515023&theme=react-dark&hide_border=true&bg_color=0D1117" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=the-nahid-hasan&theme=react-dark&hide_border=true&bg_color=0D1117" width="100%" alt="Activity Graph" />
 </div>
 
 <div align="center">
-  <img height="200px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nahid515023&theme=github_dark" alt="GitHub Profile Summary" />
+  <img height="200px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=the-nahid-hasan&theme=github_dark" alt="GitHub Profile Summary" />
 </div>
 
 <div align="center">
-  <img height="180px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nahid515023&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="49%" />
-  <img height="180px" src="https://github-profile-trophy.vercel.app/?username=nahid515023&theme=react&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="GitHub Trophies" width="49%" />
+  <img height="180px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=the-nahid-hasan&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="49%" />
+  <img height="180px" src="https://github-profile-trophy.vercel.app/?username=the-nahid-hasan&theme=react&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="GitHub Trophies" width="49%" />
 </div>
 
 <br/>
